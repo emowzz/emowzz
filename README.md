@@ -51,21 +51,21 @@ Here are some ideas to get you started:
 
 
 <!-- Github Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=tamim662&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=emowzz&show_icons=true&hide_border=true)
 
 
 
 
 
 <!-- Top Language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim662)](https://github.com/tamim662/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emowzz)](https://github.com/emowzz/github-readme-stats)
 
 
 
 
 <!-- Contact Me -->
 <div align='center'>
-<a href="https://www.linkedin.com/in/abdullah-al-muksit-tamim/>
+<a href="https://www.linkedin.com/in/emowzz/>
 <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
 </a>
 
@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 
 
 <!-- Visitor Count
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=emowzz.emowzz)
 [![HitCount](http://hits.dwyl.com/oii-nasif/oii-nasif.svg)](http://hits.dwyl.com/oii-nasif/oii-nasif)
 -->
 <!--
-**tamim662/tamim662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emowzz/emowzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
